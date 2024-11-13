@@ -1,0 +1,11 @@
+.resault-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+}
+.resault-content {
+    color: #fdf8fd;
+    width: 1440px;
+    height: 250px;
+    top: 2287px;
+}
